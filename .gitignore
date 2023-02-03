@@ -1,0 +1,14 @@
+*.pyc
+*.tex
+*.mdl
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*__pycache__
+
+*.txt
+!test-neg.txt
+!test-pos.txt
+!train-neg.txt
+!train-pos.txt
